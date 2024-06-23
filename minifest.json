@@ -1,0 +1,43 @@
+{
+  "short_name": "Progressive",
+  "name": "Progressive Web App",
+  "description": "All dev stories under one roof",
+  "theme_color": "#eb5252",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "Scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/android-launchericon-48-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/android-launchericon-96-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/android-launchericon-144-144.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/android-launchericon-72-72.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?utm_source=homescreen"
+}
